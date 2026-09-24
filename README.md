@@ -31,7 +31,7 @@ O instrumento de coleta foi composto por 39 questões, distribuídas em seis dim
 Foram obtidas 399 respostas válidas para análise (401 no total).
 
 
-## 4. Interpretação e utilização dos dados
+## 3. Interpretação e utilização dos dados
 
 Os dados do *survey* correspondem a declarações dos participantes. As práticas relatadas não constituem observações diretas de atividades docentes, e as competências autodeclaradas representam proficiência percebida, não desempenho efetivamente demonstrado.
 
@@ -39,13 +39,13 @@ Os perfis identificados pelo K-Means são agrupamentos empíricos construídos a
 
 A participação no *survey* ocorreu por adesão voluntária, com amostragem não probabilística. Assim, os resultados devem ser interpretados considerando o contexto das universidades investigadas, sem generalização automática para o conjunto dos docentes do Ensino Superior brasileiro.
 
-## 5. Ética e proteção dos participantes
+## 4. Ética e proteção dos participantes
 
 A pesquisa foi submetida aos Comitês de Ética das universidades participantes. O questionário foi disponibilizado após a apresentação do Termo de Consentimento Livre e Esclarecido (TCLE), e a participação foi voluntária.
 
 Os materiais disponibilizados neste repositório devem respeitar as condições de consentimento e proteção dos participantes. Informações que permitam identificação direta ou indireta não devem ser utilizadas para tentar identificar docentes ou associar respostas a pessoas específicas.
 
-## 6. Finalidade do repositório
+## 5. Finalidade do repositório
 
 Este repositório tem como finalidade apoiar a transparência dos procedimentos metodológicos e permitir a consulta aos materiais suplementares utilizados na pesquisa.
 
