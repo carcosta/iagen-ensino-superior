@@ -30,6 +30,8 @@ O instrumento de coleta foi composto por 39 questões, distribuídas em seis dim
 
 Foram obtidas 399 respostas válidas para análise (401 no total).
 
+O documento do *survey* apresentado corresponde à versão do instrumento disponibilizada para avaliação por pares. As identificações institucionais e os registros de aprovação ética foram omitidos para preservar o anonimato dos pesquisadores. A redação das questões e as demais alternativas de resposta foram mantidas.
+
 
 ## 3. Interpretação e utilização dos dados
 
